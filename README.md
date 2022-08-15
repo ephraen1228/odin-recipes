@@ -14,3 +14,4 @@ List of local Filipino Cuisines:
     - Papaitang Kambing
     - Balbacua
 
+At the end of this project, it's expected that we've familiarized ourselves with the basics of HTML and introduced to styling (CSS).
