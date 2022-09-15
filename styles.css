@@ -35,10 +35,18 @@ div img {
 }
 
 p a {
-    color: darkolivegreen;
-    font-family: "Apple Chancery", sans-serif ;
+  color: darkolivegreen;
+  font-family: "Apple Chancery", sans-serif;
 }
 
 body {
-    background-color: rgb(199, 224, 228);
+  background-color: rgb(199, 224, 228);
+}
+
+.disclaimer {
+  text-align: center;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  font-size: 12px;
 }
