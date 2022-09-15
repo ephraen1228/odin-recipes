@@ -125,3 +125,8 @@ div img {
   border-radius: 50%;
   border: 5px solid olive;
 }
+
+
+p, h3, h4, li {
+    font-family: "Apple Chancery", sans-serif;;
+}
